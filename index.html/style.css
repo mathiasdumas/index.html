@@ -1,0 +1,61 @@
+.conteneur
+{
+    display: flex;
+    justify-content: space-around;
+    background-color rgb(32, 33, 36)
+    color rgb(255, 255, 255)
+    font-family Roboto, RobotoDraft, Arial, sans-serif
+    align-items center    
+}
+
+.logo
+{
+    justify-content: center;
+    align-items: center;
+   
+}
+.chance
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px black solid;
+    background-color: gray;
+}
+.dispo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot1
+{
+    order: 0;
+    width: 100%;
+    justify-content: center;
+    background-color: rgb(44, 44, 44);
+    border: 3px black solid;
+    
+}
+.foot2
+{
+    color: rgb(189, 193, 198);
+    display: flex;
+    flex-wrap: wrap;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    height: 185px;
+    justify-content: space-evenly;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    background-color: rgb(44, 44, 44);
+    border: 3px black solid;
+}
+h1
+{
+    border: 3px black solid;
+    border-radius: 20px / 20px;
+}
+
